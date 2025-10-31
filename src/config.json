@@ -1,0 +1,5 @@
+{
+  "boardSize": 15,
+  "aiLevel": "minimax",
+  "databasePath": "./data/omok.db"
+}
